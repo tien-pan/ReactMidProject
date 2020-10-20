@@ -1,26 +1,35 @@
 {
   "files": {
     "main.css": "/ReactMidProject/static/css/main.780d60e0.chunk.css",
-    "main.js": "/ReactMidProject/static/js/main.0b1a578e.chunk.js",
-    "main.js.map": "/ReactMidProject/static/js/main.0b1a578e.chunk.js.map",
+    "main.js": "/ReactMidProject/static/js/main.8ae8a01e.chunk.js",
+    "main.js.map": "/ReactMidProject/static/js/main.8ae8a01e.chunk.js.map",
     "runtime-main.js": "/ReactMidProject/static/js/runtime-main.db966e0b.js",
     "runtime-main.js.map": "/ReactMidProject/static/js/runtime-main.db966e0b.js.map",
     "static/css/2.3c03f26f.chunk.css": "/ReactMidProject/static/css/2.3c03f26f.chunk.css",
-    "static/js/2.ac1baccf.chunk.js": "/ReactMidProject/static/js/2.ac1baccf.chunk.js",
-    "static/js/2.ac1baccf.chunk.js.map": "/ReactMidProject/static/js/2.ac1baccf.chunk.js.map",
+    "static/js/2.7cdea6aa.chunk.js": "/ReactMidProject/static/js/2.7cdea6aa.chunk.js",
+    "static/js/2.7cdea6aa.chunk.js.map": "/ReactMidProject/static/js/2.7cdea6aa.chunk.js.map",
     "index.html": "/ReactMidProject/index.html",
-    "precache-manifest.aa29791999e450c89c8a5a8f72e21873.js": "/ReactMidProject/precache-manifest.aa29791999e450c89c8a5a8f72e21873.js",
+    "precache-manifest.27484b876ae820f610fe38e5a8a7bddd.js": "/ReactMidProject/precache-manifest.27484b876ae820f610fe38e5a8a7bddd.js",
     "service-worker.js": "/ReactMidProject/service-worker.js",
     "static/css/2.3c03f26f.chunk.css.map": "/ReactMidProject/static/css/2.3c03f26f.chunk.css.map",
     "static/css/main.780d60e0.chunk.css.map": "/ReactMidProject/static/css/main.780d60e0.chunk.css.map",
-    "static/js/2.ac1baccf.chunk.js.LICENSE.txt": "/ReactMidProject/static/js/2.ac1baccf.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/ReactMidProject/static/media/Pacifico.6b6170fe.ttf"
+    "static/js/2.7cdea6aa.chunk.js.LICENSE.txt": "/ReactMidProject/static/js/2.7cdea6aa.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/ReactMidProject/static/media/Pacifico.6b6170fe.ttf",
+    "static/media/this.png": "/ReactMidProject/static/media/this.7c09a00c.png",
+    "static/media/w1.png": "/ReactMidProject/static/media/w1.a8601360.png",
+    "static/media/w12-1.png": "/ReactMidProject/static/media/w12-1.899b4b8b.png",
+    "static/media/w12-2.png": "/ReactMidProject/static/media/w12-2.a906919d.png",
+    "static/media/w2-1.png": "/ReactMidProject/static/media/w2-1.55848d41.png",
+    "static/media/w2-2.png": "/ReactMidProject/static/media/w2-2.0c15b69a.png",
+    "static/media/w3.png": "/ReactMidProject/static/media/w3.96926cd9.png",
+    "static/media/w5.png": "/ReactMidProject/static/media/w5.b0891802.png",
+    "static/media/w8.png": "/ReactMidProject/static/media/w8.0d48c537.png"
   },
   "entrypoints": [
     "static/js/runtime-main.db966e0b.js",
     "static/css/2.3c03f26f.chunk.css",
-    "static/js/2.ac1baccf.chunk.js",
+    "static/js/2.7cdea6aa.chunk.js",
     "static/css/main.780d60e0.chunk.css",
-    "static/js/main.0b1a578e.chunk.js"
+    "static/js/main.8ae8a01e.chunk.js"
   ]
 }

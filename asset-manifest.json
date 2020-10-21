@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ReactMidProject/static/css/main.780d60e0.chunk.css",
+    "main.css": "/ReactMidProject/static/css/main.63e17201.chunk.css",
     "main.js": "/ReactMidProject/static/js/main.ace43630.chunk.js",
     "main.js.map": "/ReactMidProject/static/js/main.ace43630.chunk.js.map",
     "runtime-main.js": "/ReactMidProject/static/js/runtime-main.db966e0b.js",
@@ -9,10 +9,10 @@
     "static/js/2.7cdea6aa.chunk.js": "/ReactMidProject/static/js/2.7cdea6aa.chunk.js",
     "static/js/2.7cdea6aa.chunk.js.map": "/ReactMidProject/static/js/2.7cdea6aa.chunk.js.map",
     "index.html": "/ReactMidProject/index.html",
-    "precache-manifest.c1e2aae7abb836a04c4824746c25daf5.js": "/ReactMidProject/precache-manifest.c1e2aae7abb836a04c4824746c25daf5.js",
+    "precache-manifest.36daf6557952a81a4da51064fd1690cb.js": "/ReactMidProject/precache-manifest.36daf6557952a81a4da51064fd1690cb.js",
     "service-worker.js": "/ReactMidProject/service-worker.js",
     "static/css/2.3c03f26f.chunk.css.map": "/ReactMidProject/static/css/2.3c03f26f.chunk.css.map",
-    "static/css/main.780d60e0.chunk.css.map": "/ReactMidProject/static/css/main.780d60e0.chunk.css.map",
+    "static/css/main.63e17201.chunk.css.map": "/ReactMidProject/static/css/main.63e17201.chunk.css.map",
     "static/js/2.7cdea6aa.chunk.js.LICENSE.txt": "/ReactMidProject/static/js/2.7cdea6aa.chunk.js.LICENSE.txt",
     "static/media/App.css": "/ReactMidProject/static/media/Pacifico.6b6170fe.ttf",
     "static/media/this.png": "/ReactMidProject/static/media/this.7c09a00c.png",
@@ -29,7 +29,7 @@
     "static/js/runtime-main.db966e0b.js",
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.7cdea6aa.chunk.js",
-    "static/css/main.780d60e0.chunk.css",
+    "static/css/main.63e17201.chunk.css",
     "static/js/main.ace43630.chunk.js"
   ]
 }
